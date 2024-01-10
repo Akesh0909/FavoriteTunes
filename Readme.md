@@ -1,0 +1,1 @@
+This app will be a personal catalogue where users can store and showcase their favourite songs and the artists who bring these tunes to life.
